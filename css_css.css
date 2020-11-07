@@ -1,0 +1,586 @@
+
+
+
+
+article {
+width: 100%;
+text-align: center;
+}
+
+
+.one {
+background-color: #EFF0F2; 
+height: 928px;
+text-align: center;
+
+}
+.two {
+height: 985px;
+background-color: #F8FAFA;;
+text-align: center;
+}
+.three {
+	background: rgba(0, 0, 0, 0.0001);
+	
+}
+
+
+.four {
+	height: 2118px;
+background-color: #F9FBFB;
+width: 100%;
+}
+
+footer {
+	height: 316px;
+	background-color: #262B2E;
+}
+
+.logo {
+	padding-bottom: 10px;
+	padding: 100px;
+	
+}
+
+
+.contact {
+	height: 50px;
+	width: 220px;
+	
+	
+}
+
+
+
+
+
+.stakan {
+	margin-left: 900px;
+	padding: -20px;
+}
+
+.text {
+	text-align: center;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+display: inline;
+align-items: center;
+letter-spacing: 2.7px;
+text-transform: uppercase;
+	color: #505050;
+	
+}
+
+
+.text_1 {
+    border: 1px;
+    padding: 10px;
+	background-color: #71F6EB;
+   }
+
+.text_2 {
+
+top: 322.5px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+display: inline;
+align-items: center;
+text-align: center;
+letter-spacing: 2.7px;
+text-transform: uppercase;
+	color: #505050;
+	
+}
+
+	#map {
+		
+		
+
+            width: 505px; height: 270px; padding: 26px; margin: 0;
+        }
+	
+.text_3 {
+	
+
+width: 249px;
+height: 28px;
+text-align: center;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 38px;
+line-height: 28px;
+
+display: inline;
+align-items: center;
+letter-spacing: 2.28px;
+text-transform: uppercase;
+
+color: #000000;
+	
+}
+
+
+.text_4 {
+	
+
+width: 647px;
+height: 28px;
+
+
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+
+display:  inline;
+align-items: center;
+text-align: center;
+letter-spacing: 1.08px;
+text-transform: uppercase;
+
+color: #000000;
+	
+	
+	
+}
+
+.komp {
+	
+	
+	padding-left: 170px;
+	
+}
+
+.text_komp {
+	padding-top: 0px;
+	
+}
+
+
+
+
+
+.text_5 {
+	position: absolute;
+width: 436px;
+height: 28px;
+left: 763px;
+top: 1200px;
+font-family: Merriweather;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+text-align: left;
+display: inline;
+align-items: center;
+letter-spacing: 1.2px;
+text-transform: uppercase;
+
+color: #000000;
+
+	
+	
+	
+}
+
+
+
+.text_6 {
+	position: absolute;
+width: 504px;
+height: 256px;
+left: 763px;
+top: 1220px;
+margin-bottom: 0px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+text-align: left;
+
+display: flex;
+align-items: center;
+letter-spacing: 0.8px;
+
+color: #000000;
+	
+	
+	
+}
+
+
+.text_7 {
+	margin-bottom: 0px;
+	position: absolute;
+width: 284px;
+height: 28px;
+left: 763px;
+top: 1500px;
+text-align: left;
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 28px;
+
+
+display: flex;
+align-items: center;
+letter-spacing: 1.02px;
+text-transform: uppercase;
+
+color: #000000;
+	
+	
+	
+}
+
+
+.text_8 {
+	margin-bottom: 0px;
+	position: absolute;
+width: 499px;
+height: 86px;
+left: 763px;
+top: 1550px;
+text-align: left;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+
+
+display: flex;
+align-items: center;
+letter-spacing: 0.8px;
+
+color: #000000;
+	
+	
+	
+}
+
+
+.text_9 {
+	
+
+width: 431px;
+height: 28px;
+
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 38px;
+line-height: 28px;
+
+
+display:  inline;
+align-items: center;
+letter-spacing: 2.28px;
+text-transform: uppercase;
+
+color: #000000;
+
+	
+	
+	
+}
+
+
+
+.text_10 {
+
+width: 613px;
+height: 28px;
+
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 28px;
+
+
+display:  inline;
+align-items: center;
+text-align: center;
+letter-spacing: 1.02px;
+text-transform: uppercase;
+
+color: #000000;
+	
+	
+}
+
+
+.text_11 {
+	
+	
+width: 303px;
+height: 28px;
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 38px;
+line-height: 28px;
+
+
+display:  inline;
+align-items: center;
+text-align: center;
+letter-spacing: 2.28px;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+
+
+.text_12 {
+	
+	
+
+width: 613px;
+height: 28px;
+
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 28px;
+
+
+display:  inline;
+align-items: center;
+text-align: center;
+letter-spacing: 1.02px;
+text-transform: uppercase;
+
+}
+
+
+
+.text_13 {
+	
+
+width: 123px;
+height: 25px;
+text-align: center;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+
+
+display:  inline;
+align-items: center;
+letter-spacing: 0.16px;
+
+color: #FFFFFF;
+
+}
+
+.block_1 {
+	
+width: 617px;
+height: 463px;
+
+
+background: #021623;
+mix-blend-mode: normal;
+opacity: 0.71;
+box-shadow: 0px 0px 30px rgba(21, 21, 21, 0.12);
+	
+	
+}
+
+.block {
+margin-left: 15px;
+width: 503px;
+height: 464px;
+
+
+
+background: #021623;
+mix-blend-mode: normal;
+opacity: 0.71;
+box-shadow: 0px 0px 3px rgba(21, 21, 21, 0.16);
+	
+	
+}
+
+
+.table_1 {
+	
+	margin-top: 400px;
+	
+}
+
+.text_14 {
+	
+	
+position: relative;
+width: 243px;
+height: 174px;
+left: 32px;
+top: 25.5px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+	
+}
+
+
+
+
+.eda1 {
+	margin: 5px;
+	
+}	
+	
+.eda2 {
+	margin: 5px;
+}		
+	
+.eda3 {
+	margin: 5px;
+
+}	
+
+.eda4 {
+	margin: 5px;
+
+}	
+
+.eda5 {
+	margin: 5px;
+	
+}	
+
+.eda6 {
+	margin: 5px;
+}	
+
+
+.lyudi1 {
+	
+	margin: 5px;	
+	
+}
+
+.lyudi1 {
+	
+	margin: 5px;	
+	
+}
+
+
+.lyudi2 {
+	
+	margin: 5px;	
+	
+}
+
+.lyudi3 {
+	
+	margin: 5px;	
+	
+}
+
+.lyudi4 {
+	
+	margin: 5px;	
+	
+}
+.lyudi5 {
+	
+	margin: 5px;	
+	
+}
+.lyudi6 {
+	
+	margin: 5px;	
+	
+}
+
+form {
+	padding-top: 40px;
+	padding-left: 30px;
+}
+
+
+
+input {
+background-color: #021623;
+color: white;
+ border-bottom: 1px solid ;
+}
+
+.b1 {
+	margin-top: 100px;
+	margin-left: 40px;
+	   background: #6EEEE4; 
+	   position: absolute;
+width: 246px;
+height: 56px;
+	border: 0px;
+}
+
+
+.text_15 {
+	
+position: absolute;
+
+height: 28px;
+left: 38px;
+top: 17px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+
+display: flex;
+align-items: center;
+letter-spacing: 2.16px;
+text-transform: uppercase;
+
+color: #000000;
+	
+	
+}
+
+
+
+
