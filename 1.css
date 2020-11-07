@@ -1,0 +1,226 @@
+.okno {
+border: 3px solid #D3D3D3;
+border-radius: 10px;
+text-align: center;
+width: 960px;
+}
+body {
+
+text-align: center;
+
+
+}
+#out {
+
+color: #6495ED;
+font-size: 25px;
+font-weight: bold;
+}
+
+
+
+.table {
+text-align: center;
+
+}
+
+.table2 {
+margin-right: 100px;
+margin-left: 30px;
+}
+
+.F2 {
+background-image: url(./background.jpg);
+background-size: 100%; 
+
+}
+
+
+footer {
+background-color: grey;
+
+}
+
+
+.F1_header {
+background-color: #c8c8c8;
+
+}
+
+.button {
+	background-color: #ffa347;
+width: 200px;
+border: none;
+
+}
+
+.one {
+
+width: 250px;
+height: 170px;
+background-color: #aeb1f1;
+}
+
+.two {
+padding-top: 60px;
+padding-right: 300px;
+
+
+}
+
+
+
+
+.four {
+		padding-right: 300px;
+		margin-bottom: 600px;
+}
+
+
+.five {
+	font-size: 30px;
+-moz-font-family: Montserrat;
+-webkit-font-family: Montserrat;
+font-family: Montserrat;
+}
+
+.samaya {
+	font-size: 12px;
+	
+	
+}
+
+
+.lorem {
+color: black;
+font-size: 13.5px;
+
+}
+.radio1 {
+ width: 22px;
+height: 22px;	
+	margin: 0 9px 0 0;
+}
+
+.lorem1 {
+padding-left: 25%;
+width: 1000px;
+
+	
+}
+
+
+.vysota {
+transform: rotate(270deg);
+padding-left: 10px;
+
+}
+
+
+.caption {
+	padding-top: -50px;
+	padding-left: 40px;
+indent-text: 5em;
+}
+
+
+
+
+::-webkit-input-placeholder {color: black;}
+::-webkit-input-placeholder {padding-left: 30px;}
+
+.button1 {
+			background-color: #aeb1f1;
+	color: white;
+		  border-radius: 7px;
+		  width: 200px;
+		   border: none;
+			height: 30px;
+}
+
+.kbe {
+	font-size: 20px;
+	
+}
+
+
+.nomer {
+ border: none;	
+	
+}
+.input2 {
+	color: black;
+
+border-radius: 7px;
+width: 50px;
+height: 35px;
+}
+.input3 {
+	color: black;
+	
+border-radius: 7px;
+width: 50px;
+height: 35px;
+}
+
+
+.shirina_1 {
+	padding-left: -100px;
+	text-align: left;
+	
+}
+
+
+.td {
+	padding-top: 35px;
+	font-size: 30px;
+	
+}
+
+
+
+
+.strelka {
+border: 2px solid grey;
+overflow: hidden; 
+border-radius: 7px;
+background: url(./strelka.jpg) no-repeat right ;
+color: black;
+
+width: 260px;
+	border-radius: 7px;
+	height: 35px;
+}
+
+
+
+.strelka select {
+border-radius: 0;
+background: transparent;
+height: 34px;
+padding: 5px;
+border: 0;
+font-size: 16px;
+line-height: 1;
+-webkit-appearance: none;
+width: 268px;
+}
+
+
+
+.input1 {
+background-image: url(./icon.jpg);   
+background-repeat: no-repeat;   
+background-position: 0px;  
+color: black;
+	background-color: 	#C0C0C0;
+border-radius: 7px;
+border: 1px;
+height: 30px;
+-moz-border-radius: 5px;   
+-webkit-border-radius: 5px;    
+
+padding-left: 42px;   
+
+font-size: 13px;
+}
