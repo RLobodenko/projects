@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <link rel="stylesheet" type="text/css"  href="test.css"/>
+</head>
+<body>
+    <div class="first-screen">
+        <div class="first-screen_menu">
+            <div class="nav-button">Контакты</div>
+            <div class="nav-button">Наши проекты</div>
+            <div class="nav-button selected">Главная</div>
+            <div class="nav-button">Услуги</div>
+            <div class="nav-button">Новости</div>
+        </div>
+        <div class='services'>
+            <div class="first-screen-text-one">Передовая IT студия</div>
+            <div class="first-screen-text-two">Мы создаем легкие решения сложных задач и проблем</div>
+            <div class="blue_button">
+               Наши проекты
+            </div>
+            <div class="services_items_wrapper">
+                <div class="services_item">
+                    <div class="pic">
+                        <img src="images/project.png">
+                    </div>
+                    <div class="text">
+                    <p> Cоздание сайтов </p>
+                    <h3>
+                    <p> Lorem Ipsum - это текст- "рыба", часто используе в печати и вэб-дизайне.</p>
+                    </h3>
+                    </div>
+                </div>
+                <div class="services_item">
+                    <div class="pic">
+                        <img src="images/project.png">
+                    </div>
+                    <div class="text">
+                    <p> Cоздание сайтов </p>
+                    <h3>
+                    <p> Lorem Ipsum - это текст- "рыба", часто используе в печати и вэб-дизайне.</p>
+                    </h3>
+                    </di>
+                </div>
+                <div class="services_item">
+                    <div class="pic">
+                        <img src="images/project.png">
+                    </div>
+                    <div class="text">
+                    <p> Cоздание сайтов </p>
+                    <h3>
+                    <p> Lorem Ipsum - это текст- "рыба", часто используе в печати и вэб-дизайне.</p>
+                    </h3>
+                    </div>
+                </div>
+                <div class="services_item">
+                    <div class="pic">
+                        <img src="images/project.png">
+                    </div>
+                    <div class="text">
+                    <p> Cоздание сайтов </p>
+                    <h3>
+                    <p> Lorem Ipsum - это текст- "рыба", часто используе в печати и вэб-дизайне.</p>
+                    </h3>
+                    </div>
+                </div>
+                <div class="services_item">
+                    <div class="pic">
+                        <img src="images/project.png">
+                    </div>
+                    <div class="text">
+                    <p> Cоздание сайтов </p>
+                    <h3>
+                    <p> Lorem Ipsum - это текст- "рыба", часто используе в печати и вэб-дизайне.</p>
+                    </h3>
+                    </div>
+                </div>
+                <div class="services_item">
+                    <div class="pic">
+                        <img src="images/project.png">
+                    </div>
+                    <div class="text">
+                    <p> Cоздание сайтов </p>
+                    <h3>
+                    <p> Lorem Ipsum - это текст- "рыба", часто используе в печати и вэб-дизайне.</p>
+                    </h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="contacts footer_links">
+            <h3>Контактная информация</h3>
+            <ul>
+                <li>test@test.ru</li>
+                <li>+8 777 555 66 99</li>
+                <li>Москва, Бульвар Ленина 33</li>
+            </ul>
+        </div>
+        <div class="main-links footer_links">
+            <h3>Основные ссылки</h3>
+            <ul>
+                <li>Главная</li>
+                <li>Наши проекты</li>
+                <li>Наши услуги</li>
+                <li>Контакты</li>
+            </ul>
+        </div>
+        <div class="our-projects footer_links">
+            <h3>Наши проекты</h3>
+            <ul>
+                <li>РосНано</li>
+                <li>Сколково</li>
+                <li>Проект “Восток”</li>
+                <li>ТЭЦ Калининграда</li>
+            </ul>
+        </div>
+        <div class="social-networks footer_links">
+            <h3>Социальные сети</h3>
+            <ul>
+                <li>VK.com</li>
+                <li>Instagram</li>
+                <li>Facebook</li>
+                <li>Twitter</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+
+<script type="text/javascript">
+    const list = document.querySelector('.services_items_wrapper > .services_item:nth-child(2)')
+    const button = document.querySelector('.blue_button')
+    let number = 1;
+
+    button.onclick=function (event){
+        list.innerHTML += `<div class="services_item">
+                    <div class="pic">
+                        <img src="images/project.png">
+                    </div>
+                    <div class="text">
+                    <p>Проект номер ${number} </p>
+                    <h3>
+                    <p> Lorem Ipsum - это текст- "рыба", часто используе в печати и вэб-дизайне.</p>
+                    </h3>
+                    </div>
+                </div>`
+
+                number += 1;
+    }
+//     button.onclick= (event)=>{
+
+// }
+    // button.addEventListener('click',function (event) {
+        
+    // })
+
+</script>
